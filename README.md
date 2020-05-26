@@ -1,5 +1,5 @@
 # MCDR-SChanger
-A [MCDR](https://github.com/Fallen-Breath/MCDReforged) plugin which can auto change scoreboards.
+A [MCDR](https://github.com/Fallen-Breath/MCDReforged) plugin which can change scoreboards automatically.
 
 一个支持游戏中定时切换计分板的[MCDR](https://github.com/Fallen-Breath/MCDReforged)插件（希望上面那句没有语法错误）
 
